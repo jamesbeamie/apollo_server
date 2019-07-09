@@ -1,0 +1,15 @@
+{
+  "name": "kladee",
+  "version": "1.0.0",
+  "description": "apollo server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Wafula",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.6.7",
+    "graphql": "^14.4.2"
+  }
+}
